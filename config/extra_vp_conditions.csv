@@ -1,0 +1,19 @@
+title, victory_points, version, depcreated
+"Holy Planet of Ixth", 1, 0, 1
+"Shard of the Throne", 1, 0, 0
+"Crown of Emphidia", 1, 0, 0
+"Political Censure", 1, 0, 0
+"Mutiny (Gain VP)", 1, 0, 0 
+"Mutiny (Lose VP)", -1, 0, 0
+"Seed of an Empire (Gain VP)", 1, 0, 0
+"Seed of an Empire (Lose VP)", -1, 0, 0
+"Imperial Rider", 1, 0, 0,
+"Support for the Throne (Red)", 1, 0, 0
+"Support for the Throne (Green)", 1, 0, 0
+"Support for the Throne (Yellow)", 1, 0, 0
+"Support for the Throne (Black)", 1, 0, 0
+"Support for the Throne (Orange)", 1, 0, 0
+"Support for the Throne (Pink)", 1, 0, 0
+"Support for the Throne (Purple)", 1, 0, 0
+"Support for the Throne (Blue)", 1, 0, 0
+"First to Mechatol Rex", 1, 0, 0
